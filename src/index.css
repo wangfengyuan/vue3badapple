@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#app {
+    width: 800px;
+    height: 600px;
+    display: inline;
+}
+#playBtn {
+    position: absolute;
+    width: 650px;
+    height: 550px;
+    background-color: transparent;
+    left: 0px;
+    color: #fff;
+    z-index: 2;
+    font-size: 24px;
+    border: none;
+}
